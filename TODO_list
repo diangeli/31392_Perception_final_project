@@ -1,0 +1,32 @@
+
+
+Camera:
+Calibrate (use link in assignment description)
+Rectify the stereo image
+
+
+Find/Track objects in video:
+Tracking in 3D
+Also under occlusion (Kalman filter)
+
+
+Train a ML sytem to classify objects:
+Find train data on internet (or create ourself)
+3 classes (cups, books, boxes)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
